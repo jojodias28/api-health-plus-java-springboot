@@ -28,7 +28,7 @@
 
 ## <div id="sobre-o-projeto"> Sobre o projeto
 
-A proposta foi desenvolver uma API em Java com um CRUD completo que faça conexão com a interface do aplicativo android criado durante o treinamento de Android e Java ministrado pela IBM, a ideia é que o aplivativo consuma ao menos um dos endpoint da API e salve as informações no banco de dados.
+A proposta foi desenvolver uma API em Java com um CRUD completo que faça conexão localmente com a interface do aplicativo android criado durante o treinamento de Android e Java ministrado pela IBM, a ideia é que o aplivativo consuma ao menos um dos endpoint da API e salve as informações no banco de dados.
 </div>
   
  
